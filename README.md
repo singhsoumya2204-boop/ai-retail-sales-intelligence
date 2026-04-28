@@ -41,10 +41,21 @@ Built an AI-augmented analytics platform using Power BI, SQL and analytical mode
 
 ## 📂 Repository Structure
 
-dashboard/
-data/
-images/
-sql/
+## 📊 Executive Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## 📈 Product Performance
+
+![Product](images/product_page.png)
+
+## 👥 Customer Analytics
+
+![Customer](images/customer_page.png)
+
+## 🤖 AI sights
+
+![AI Insights](images/ai_insights.png)
 
 ---
 
