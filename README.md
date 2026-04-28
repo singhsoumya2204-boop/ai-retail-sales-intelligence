@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 
+Dataset Size: 10 Orders | 44K Revenue | 15K Profit | 3 Regions | 3 Product Categories
+
 Built an AI-augmented analytics platform using Power BI, SQL and analytical modeling for revenue analysis, anomaly detection, forecasting and recommendation-driven decision support.
 
 ---
@@ -41,10 +43,6 @@ Built an AI-augmented analytics platform using Power BI, SQL and analytical mode
 
 ## 📂 Repository Structure
 
-sql/
-└── retail_sales_queries.sql (Analytical SQL queries for revenue, profitability and customer analysis)
-
-
 ## 📊 Executive Dashboard
 
 ![Dashboard](images/dashboard.png)
@@ -60,6 +58,9 @@ sql/
 ## 🤖 AI sights
 
 ![AI Insights](images/ai_insights.png)
+
+sql/
+└── queries.sql (Analytical SQL queries for revenue, profitability and customer analysis)
 
 ---
 
