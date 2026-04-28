@@ -41,6 +41,10 @@ Built an AI-augmented analytics platform using Power BI, SQL and analytical mode
 
 ## 📂 Repository Structure
 
+sql/
+└── retail_sales_queries.sql (Analytical SQL queries for revenue, profitability and customer analysis)
+
+
 ## 📊 Executive Dashboard
 
 ![Dashboard](images/dashboard.png)
